@@ -1,4 +1,4 @@
-The Windows part of this software uses Imdisk, written by LTR Data, Olof Lagerkvist, Borås, Sweden
+The Windows part of this software uses ImDisk, written by LTR Data, Olof Lagerkvist, Borås, Sweden
 
 URL:
 http://www.ltr-data.se/opencode.html/
@@ -7,7 +7,26 @@ Contact:
 LTR Data, Olof Lagerkvist, Borås, Sweden
 E-mail: olof@ltr-data.se
 
-License:
+ImDisk License:
 "I have received some e-mails with questions whether or not it is okay to include this driver in a commercial product. The answer is yes, just like all other tools I publish here. However, note that a few lines of code are under the GNU GPL license. More specifically, the driver code related to floppy emulation. Some of the driver code is also ported to Windows NT from the FreeBSD 'md' driver.
 
 This means that if you modify the code and/or include it in and/or redistribute it along with your own product, all of the modified/integrated/redistributed product that you distribute needs to be redistributed under GPL, including source code. If you wish to avoid GPL requirements, such as the need to redistribute source code, you would therefore need to remove all floppy emulation related code from the driver. I will be happy to do such modifications for you to make the code comply with your license requirements. Just send me an e-mail!"
+
+GPL on Windows:
+Because of the license requirements above, Log2Ram on Windows is not licensed under the Apache license, but under the GPL.
+
+GPL notice:
+Copyright (C) 2019  Felix Caffier
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
