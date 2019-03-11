@@ -38,7 +38,7 @@ If you want to go back to HDD logging, you can remove Log2Ram using the followin
 - Remove "~/.shiva/ShiVa/Editor/Log"
 - Restore the original "ShiVaEditor.sh" script if you altered it
 
-#Screenshot
+# Screenshot
 Both images show ShiVa 2.0 on Linux logging thousands of short log messages per frame at 60 FPS. Using Log2Ram, the logging activity does not even register.
 
 ![linux screenshot](Screenshots/hddvsram.png)
